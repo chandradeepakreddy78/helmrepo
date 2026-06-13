@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  deepak:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2026-06-13T19:31:02.892587367Z"
+    description: A Helm chart for Kubernetes
+    digest: e032d81635ddd5a8bf3aba78d113ea0cd6fa3c3237583caff87dfb9e57814d50
+    name: deepak
+    type: application
+    urls:
+    - deepak-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-06-13T19:31:02.891966028Z"
